@@ -87,6 +87,7 @@
 
 .hero__content h1 em {
   color: var(--color-accent);
+  font-weight: 200;
 }
 
 .hero__sub {
