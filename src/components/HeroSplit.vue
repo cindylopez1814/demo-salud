@@ -5,7 +5,7 @@
       <!-- Texto -->
       <div class="hero__content">
         <span class="section-tag">Nutricionista Clínica · São Paulo, Brasil</span>
-        <h1>Cuide do seu corpo <em> por dentro</em></h1>
+        <h1>Cuide do seu corpo<em> por dentro</em></h1>
         <p class="hero__sub">
           Alimentação consciente e personalizada para mulheres que querem
           viver com energia, equilíbrio e bem-estar de verdade.
