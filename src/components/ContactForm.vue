@@ -128,12 +128,6 @@ function handleSubmit() {
 
     </div>
 
-    <div class="footer">
-      <div class="container">
-        <p>© 2025 Daniela Mora — Nutricionista Clínica · Feito com ♡ por <strong>Calo Lab</strong></p>
-      </div>
-    </div>
-
   </section>
 </template>
 
@@ -318,23 +312,6 @@ function handleSubmit() {
 .form-success p {
   max-width: 320px;
   letter-spacing: 0.02em;
-}
-
-/* Footer */
-.footer {
-  border-top: 1px solid var(--color-border);
-  padding: 24px 0;
-}
-
-.footer p {
-  font-size: 0.82rem;
-  text-align: center;
-  color: var(--color-text-light);
-  letter-spacing: 0.02em;
-}
-
-.footer strong {
-  color: var(--color-primary);
 }
 
 /* ── TABLET ── */

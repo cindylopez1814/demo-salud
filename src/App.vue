@@ -5,6 +5,7 @@ import ServiceCards from './components/ServiceCards.vue'
 import StepFlow from './components/StepFlow.vue'
 import TestimonialSlider from './components/TestimonialSlider.vue'
 import ContactForm from './components/ContactForm.vue'
+import TheFooter from './components/base/TheFooter.vue'
 </script>
 
 <template>
@@ -16,4 +17,5 @@ import ContactForm from './components/ContactForm.vue'
     <TestimonialSlider />
     <ContactForm />
   </main>
+  <TheFooter />
 </template>
